@@ -1,0 +1,28 @@
+.categoryItem {
+  padding-bottom: 14px;
+  padding-top: 16px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.img {
+  margin-bottom: 8px;
+}
+
+.title {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 0.75rem;
+  line-height: 133%;
+  color: var(--text-black);
+  text-align: center;
+}
+/*# sourceMappingURL=CategoryItem.module.css.map */

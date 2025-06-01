@@ -1,0 +1,12 @@
+.main__cards {
+  margin: 0 auto;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: -ms-grid;
+  display: grid;
+  gap: 40px 25px;
+  -ms-grid-columns: (minmax(286px, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(286px, 1fr));
+}
+/*# sourceMappingURL=Main.css.map */

@@ -1,0 +1,25 @@
+.link {
+  font-weight: 600;
+  font-size: 0.875rem;
+  line-height: 157%;
+  color: var(--text-black);
+  padding: 0px 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 8px;
+}
+
+.link_light {
+  font-weight: 400;
+  color: var(--text-normal);
+}
+
+.link:nth-child(2) {
+  border-left: 1.5px solid #DDDDDD;
+  border-right: 1.5px solid #DDDDDD;
+}
+/*# sourceMappingURL=Link.css.map */
