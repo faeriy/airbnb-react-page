@@ -1,0 +1,18 @@
+.header {
+  padding: 16px 0;
+  border-bottom: 1px solid #EBEBEB;
+}
+
+.header__row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 30px;
+}
+/*# sourceMappingURL=Header.css.map */

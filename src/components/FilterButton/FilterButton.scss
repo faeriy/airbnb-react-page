@@ -1,0 +1,13 @@
+.filter-button {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    border: 1px solid #DDDDDD;
+    border-radius: 12px;
+    padding: 16px 16px;
+
+    &__icon {
+        padding: 5px;
+    }
+}
